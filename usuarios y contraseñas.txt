@@ -1,0 +1,16 @@
+Instancia:
+db-pfinal-donovan
+
+
+EndPoint:
+db-pfinal-donovan.c5yy8iwauekj.us-east-2.rds.amazonaws.com
+
+Usuario Maestro
+admin_mysql
+
+Password:
+1Nt3grac10n2024gt
+
+
+nombre base de datos
+pfinal
